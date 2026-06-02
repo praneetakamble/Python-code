@@ -1,2 +1,1 @@
-print("iGAP")
-print("Technologies")
+print("Welcome to kolhapur")
